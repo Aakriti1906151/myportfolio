@@ -1,0 +1,41 @@
+body
+{
+padding:30px
+font-family:lacto;
+align-items:left;
+min-height:100vh;
+}
+.tbl
+{
+float:left;
+align:left;
+display:table;
+color:green;
+border-radius:5px;
+border:solid 2px black;
+}
+.img
+{border-radius:40%;
+width:140px;
+height:140px;
+margin-top:10%;
+object-fit:cover;
+object-postion :0 -14px;
+}
+.tbl2
+{
+float:right;
+align:right;
+display:table;
+color:green;
+border-radius:5px;
+border:solid 2px black;
+}
+.img2
+{border-radius:40%;
+width:140px;
+height:140px;
+margin-top:10%;
+object-fit:cover;
+object-postion :0 -14px;
+}
